@@ -67,7 +67,7 @@ navigate('/Address')
   <div class="progress-bar progress-bar-striped progress-bar-animated" style={{width:"1%" }}></div>
 </div>
 <div className='row' style={{marginBottom:'2rem',marginTop:'3rem'}}>
- <div className='col-sm-12 col-md-6 col-lg-6'><img src="personal.png"></img></div>
+ <div className='col-sm-12 col-md-6 col-lg-6'><img  className="img-fluid" src="personal.png"></img></div>
   
  <div className='col-sm-12 col-md-6 col-lg-6'>
 
